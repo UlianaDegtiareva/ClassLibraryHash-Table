@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibraryHash_Table.MyCollection_HashTable&lt;T&gt;">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAACAAAAABAQAAAABAAAAAAIEAAEAAAAAABUIAA=</HashCode>
+      <FileName>MyCollection_HashTable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibraryHash_Table.MyEnumerator&lt;T&gt;">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAABAAAAECAIAAAAAAAAAAAoAAAAAAAAAA=</HashCode>
+      <FileName>MyCollection_HashTable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibraryHash_Table.MyHashTable&lt;T&gt;">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAYAABABQDAAEAAQCgAAAAAAAAIAAAAAUAAA=</HashCode>
+      <FileName>MyHashTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

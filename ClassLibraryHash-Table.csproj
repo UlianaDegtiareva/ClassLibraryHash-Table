@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>ClassLibraryHash_Table</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibraryLaba10">
+      <HintPath>..\..\лаба10\ClassLibraryLaba10\ClassLibraryLaba10\bin\Debug\ClassLibraryLaba10.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
